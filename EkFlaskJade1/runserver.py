@@ -74,7 +74,7 @@ def ek(name):
     directory = os.getcwd()
     y = np.array(s)
     plt.pie(y)
-    s = "E:\EkPython\EkFlaskTest\EkFlaskJade1\static\eksai31.jpg"
+    s = "D:\datalatics and system solution\EkFlaskTest\EkFlaskJade1\static\eksai31.jpg"
     plt.savefig(s)
     #plt.draw
     HOST = environ.get('SERVER_HOST', 'localhost')
