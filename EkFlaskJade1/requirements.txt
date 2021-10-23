@@ -1,3 +1,0 @@
-Flask
-pyjade<5
-gunicorn
